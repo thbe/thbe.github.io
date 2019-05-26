@@ -13,19 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: thbe GitHub project page
+title: thbe's project page
 email: project@bendler-net.de
 description: >- # this means to ignore newlines until "baseurl:"
-  This site contain some of my Puppet repositories I've wrote so
-  far.
+  This site contain some of my project repositories with code I've wrote over the
+  last years.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thbe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thbe007
 github_username:  thbe
 
+# Gitpages
+show_downloads: false
+
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
