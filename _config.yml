@@ -22,15 +22,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thbe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thbe007
 github_username:  thbe
+permalink: /:year-:month-:day-:title
 
 # Gitpages
 show_downloads: false
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
