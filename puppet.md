@@ -6,7 +6,7 @@ permalink: /puppet/
 
 # Puppet
 
-Here is a list of my Puppet modules that I have created over time:
+Here is a list of my Puppet modules that I have created over time. Some modules may be outdated and need some maintenance before they can be used again:
 
 ## rkhunter
 [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-rkhunter.svg)](https://github.com/thbe/puppet-rkhunter)
