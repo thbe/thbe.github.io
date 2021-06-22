@@ -10,37 +10,11 @@ Here is a list of my Puppet modules that I have created over time. Some modules 
 
 | Puppet module | GitHub Repo | Build Status | Puppet Forge |
 |:--------------|:------------|:-------------|:-------------|
-| rkhunter      | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-rkhunter.svg)](https://github.com/thbe/puppet-rkhunter) | [![Build Status](https://travis-ci.org/thbe/puppet-rkhunter.png?branch=master)](https://travis-ci.org/thbe/puppet-rkhunter) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/rkhunter.svg)](https://forge.puppetlabs.com/thbe/rkhunter) |
-| ssmtp         | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-rkhunter.svg)](https://github.com/thbe/puppet-rkhunter) | [![Build Status](https://travis-ci.org/thbe/puppet-rkhunter.png?branch=master)](https://travis-ci.org/thbe/puppet-rkhunter) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/rkhunter.svg)](https://forge.puppetlabs.com/thbe/rkhunter) |
-| rkhunter      | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-rkhunter.svg)](https://github.com/thbe/puppet-rkhunter) | [![Build Status](https://travis-ci.org/thbe/puppet-rkhunter.png?branch=master)](https://travis-ci.org/thbe/puppet-rkhunter) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/rkhunter.svg)](https://forge.puppetlabs.com/thbe/rkhunter) |
-| rkhunter      | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-rkhunter.svg)](https://github.com/thbe/puppet-rkhunter) | [![Build Status](https://travis-ci.org/thbe/puppet-rkhunter.png?branch=master)](https://travis-ci.org/thbe/puppet-rkhunter) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/rkhunter.svg)](https://forge.puppetlabs.com/thbe/rkhunter) |
-| rkhunter      | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-rkhunter.svg)](https://github.com/thbe/puppet-rkhunter) | [![Build Status](https://travis-ci.org/thbe/puppet-rkhunter.png?branch=master)](https://travis-ci.org/thbe/puppet-rkhunter) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/rkhunter.svg)](https://forge.puppetlabs.com/thbe/rkhunter) |
-
-
-## rkhunter
-[![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-rkhunter.svg)](https://github.com/thbe/puppet-rkhunter)
-[![Build Status](https://travis-ci.org/thbe/puppet-rkhunter.png?branch=master)](https://travis-ci.org/thbe/puppet-rkhunter)
-[![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/rkhunter.svg)](https://forge.puppetlabs.com/thbe/rkhunter)
-
-## ssmtp
-[![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-ssmtp.svg)](https://github.com/thbe/puppet-ssmtp)
-[![Build Status](https://travis-ci.org/thbe/puppet-ssmtp.png?branch=master)](https://travis-ci.org/thbe/puppet-ssmtp)
-[![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/ssmtp.svg)](https://forge.puppetlabs.com/thbe/ssmtp)
-
-## style
-[![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-style.svg)](https://github.com/thbe/puppet-style)
-[![Build Status](https://travis-ci.org/thbe/puppet-style.png?branch=master)](https://travis-ci.org/thbe/puppet-style)
-[![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/style.svg)](https://forge.puppetlabs.com/thbe/style)
-
-## yum
-[![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-yum.svg)](https://github.com/thbe/puppet-yum)
-[![Build Status](https://travis-ci.org/thbe/puppet-yum.png?branch=master)](https://travis-ci.org/thbe/puppet-yum)
-[![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/yum.svg)](https://forge.puppetlabs.com/thbe/yum)
-
-## virtual tools
-[![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-virtual.svg)](https://github.com/thbe/puppet-virtual)
-[![Build Status](https://travis-ci.org/thbe/puppet-virtual.png?branch=master)](https://travis-ci.org/thbe/puppet-virtual)
-[![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/virtual.svg)](https://forge.puppetlabs.com/thbe/virtual)
+| rkhunter | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-rkhunter.svg)](https://github.com/thbe/puppet-rkhunter) | [![Build Status](https://travis-ci.org/thbe/puppet-rkhunter.png?branch=master)](https://travis-ci.org/thbe/puppet-rkhunter) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/rkhunter.svg)](https://forge.puppetlabs.com/thbe/rkhunter) |
+| ssmtp | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-ssmtp.svg)](https://github.com/thbe/puppet-ssmtp) | [![Build Status](https://travis-ci.org/thbe/puppet-ssmtp.png?branch=master)](https://travis-ci.org/thbe/puppet-ssmtp) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/ssmtp.svg)](https://forge.puppetlabs.com/thbe/ssmtp) |
+| style | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-style.svg)](https://github.com/thbe/puppet-style) | [![Build Status](https://travis-ci.org/thbe/puppet-style.png?branch=master)](https://travis-ci.org/thbe/puppet-style) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/style.svg)](https://forge.puppetlabs.com/thbe/style) |
+| yum | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-yum.svg)](https://github.com/thbe/puppet-yum) | [![Build Status](https://travis-ci.org/thbe/puppet-yum.png?branch=master)](https://travis-ci.org/thbe/puppet-yum) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/yum.svg)](https://forge.puppetlabs.com/thbe/yum) |
+| virtual tools | [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-virtual.svg)](https://github.com/thbe/puppet-virtual) | [![Build Status](https://travis-ci.org/thbe/puppet-virtual.png?branch=master)](https://travis-ci.org/thbe/puppet-virtual) | [![Puppet Forge](https://img.shields.io/puppetforge/v/thbe/virtual.svg)](https://forge.puppetlabs.com/thbe/virtual) |
 
 ## icinga
 [![GitHub Repo](https://img.shields.io/github/last-commit/thbe/puppet-icinga.svg)](https://github.com/thbe/puppet-icinga)
